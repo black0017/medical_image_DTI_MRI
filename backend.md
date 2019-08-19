@@ -1,18 +1,5 @@
-Programming task for the position of backend software engineer in Advantis
+Programming task for the position of backend software engineer
 ==========================================================================
-
-Create a web application written in Python:
-
-- The web app can be written using Django, Flask, Pyramid or any other python
-  web framework of your choice.
-
-- The web app should display a form that contains a single text field and a
-  submit button.
-
-- The text field should accept urls for tarballs.
-
-- After pressing the submit button, the web app should download and extract the
-  tarball.
 
 - The tarball should contain 4 files:
   - t1.nii
@@ -46,11 +33,7 @@ Create a web application written in Python:
 
 - Submitted code **MUST** be in a private git repo. If hosted in github, add
   dimrozakis as a collaborator. If in bitbucket, then share it to htuttle
-  instead. If on a private server, give me access using my public SSH key
-  (preferred username is dr):
-  ```
-  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCdC7DfdBZmsEAO5AhOPFPEF5CCH9GeIKMAxAdd+jTdK8qeG20b/mJ7i+74jSJ2YRDGV4M6EffAfqfONlljhWFH5/6ALLjZ3n1T8n2AxoXUH5C7wmHUKaGSjRUjzPW5ITLWuTWCO8lXSb7I+wV/f1yPlKtdpMTGWqT0bn4//9QuQtFdKH9yZx1fZH5OHuMcgEmHPGUza85hpZIaqvHHZXW79z7PpMJy1TmqMcSFgUWY5CRz2P7vxiWNFsci5eoljQxTY760+8Zi3WzGN0KVBNYyUoTgwxq3jy74VIVGmSe+7/YFzIGOpFKC9VmL3FBpg/a6NKuiEio7bc46lgPNfotDdfWKTDKGUIhSjKFH1OI6ZYsvt5s6yB7OFKV8hLbDOJOZKLQJl4MUEGMbHsVJLlx/tXGp4A+19P43NslACH1xbnFE6FbxjNtOiLxHHGGJKT+I1Z/MDdDoG09Zbx2+B4hDGMQ2NZnvMPHkPBDgDF91j1r83XZxuiELo9VlrshZFMKHRN3oC/HZKpn190hsBeWu6s6D5h4eqQhlDpUVHOupYN9p3qACxhwGcoyK3CpSDkGU5X+Gn+tLnrwqzAUyltQ8yWKmz5L2Sksl5ZVHFb7i34R7NLa3anWYD8K0fZ2mZNPiIXmH9xsU69j0Ar4mHXXFMt1U10aF/u1M4ASYad1d4w== Dimitris Rozakis
-  ```
+  instead.
 
 - The repo **MUST** contain a `README.md` file explaining how to set up the
   environment and run the code.
